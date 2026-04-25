@@ -160,7 +160,7 @@ The Power BI dashboard was designed to communicate insights in a clear, business
 ![Executive Overview](Images/Quantium_Dashboards_1.jpg)
 
 ### Customer Insights
-![Customer Insights](Images/Quantium_Dashboards_2jpg)
+![Customer Insights](Images/Quantium_Dashboards_2.jpg)
 
 ### Product Performance
 ![Product Performance](Images/Quantium_Dashboards_3.jpg)
@@ -169,4 +169,4 @@ The Power BI dashboard was designed to communicate insights in a clear, business
 ![Store Performance](Images/Quantium_Dashboards_4.jpg)
 
 ###  Trial Analysis
-![Trial Analysis](Images/Quantium_Dashboards_5jpg)
+![Trial Analysis](Images/Quantium_Dashboards_5.jpg)
