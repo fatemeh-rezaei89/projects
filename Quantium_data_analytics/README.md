@@ -50,7 +50,8 @@ Raw Data  →  SQL Cleaning  →  Enrichment & Aggregation  →  Control Matchin
 
 ```
 .
-├── SQL.sql                         # Cleaning, enrichment, segmentation and trial/control matching
+├── SQL/
+│   └── SQL.sql                     # Cleaning, enrichment, segmentation and trial/control matching
 ├── Scripts/
 │   └── Quantim_python.ipynb        # Significance testing of trial uplift (Pandas + SciPy)
 ├── Power_BI/
